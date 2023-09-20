@@ -7,3 +7,5 @@ Esta es una segunda prueba de PR
 Esta es una segunda prueba de PR
 
 Tercera prueba de PR de los permisos
+
+Cuarta prueba de PR - permisos
