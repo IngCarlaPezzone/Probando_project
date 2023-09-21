@@ -1,1 +1,2 @@
-# archivo para comprobar quién puede aceptar mi pull request
+archivo para comprobar quién puede aceptar mi pull request
+prueba de modificación del archivo y nuevo PR
