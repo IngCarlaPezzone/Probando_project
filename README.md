@@ -2,6 +2,12 @@
 Este repositorio se esta usando para probar el funcionamiento de projects
 
 Esta es una prueba de PR - David
+Esta es una segunda prueba de PR
 
+Esta es una segunda prueba de PR
 
-Aquí intento editar el README sin pedir permiso... (Jere)
+Tercera prueba de PR de los permisos
+
+Cuarta prueba de PR - permisos
+
+Quinta prueba de PR - permisos
