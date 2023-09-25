@@ -1,3 +1,0 @@
-Nuevo Archivo
-
-Otra cosa
